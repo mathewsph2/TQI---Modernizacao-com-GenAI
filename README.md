@@ -10,6 +10,16 @@ Live de Lançamento TQI - Modernização com GenAI
 Introdução a modernização de sistemas e experiência TQI 
 
 
+💾 Ferramentas/Sites
+
+📍 https://refactoring.guru/pt-br/design-patterns/
+
+
+🎓 Instrutores/Mentores
+
+🟦 https://www.linkedin.com/in/felipeaguiar-exe/
+
+
 
 ---
 ## 🚀 Introdução a Engenharia de Prompt 
