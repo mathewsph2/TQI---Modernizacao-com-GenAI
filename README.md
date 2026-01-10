@@ -15,6 +15,13 @@ Introdução a modernização de sistemas e experiência TQI
 📍 https://refactoring.guru/pt-br/design-patterns/
 
 
+💾 Livros
+
+Tidy First? Minirrefatorações para um melhor design de software 
+
+Refatoração - Martin Fowler
+
+
 🎓 Instrutores/Mentores
 
 🟦 https://www.linkedin.com/in/felipeaguiar-exe/
