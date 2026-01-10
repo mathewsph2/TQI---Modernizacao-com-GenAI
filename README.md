@@ -1,0 +1,1 @@
+# TQI---Modernizacao-com-GenAI
