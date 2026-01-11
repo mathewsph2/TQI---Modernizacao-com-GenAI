@@ -1,7 +1,25 @@
 #  💻 TQI - Modernização com GenAI
 
+> Bootcamp: Modernização de sistemas com práticas modernas e GenAI
+
+
 ---
-## 🚀 Introdução à modernização de sistemas
+## 📌 Sobre
+Este repositório reúne conteúdos, referências e atividades do Bootcamp "TQI — Modernização com GenAI". O objetivo é apresentar conceitos de modernização de sistemas, engenharia de prompts, boas práticas em desenvolvimento e uso de serviços na AWS — com foco em aplicação prática e exercícios.
+
+## 🎯 Objetivos
+- Compreender padrões e técnicas de refatoração e modernização.
+- Aprender fundamentos de Engenharia de Prompt para ferramentas como GitHub Copilot e modelos GenAI.
+- Aplicar boas práticas de desenvolvimento (Clean Code, SOLID, Design Patterns).
+- Configurar e usar serviços AWS (EC2, S3, Lambda, SageMaker Canvas) para projetos modernizados.
+
+## 🎓 Público-alvo
+Desenvolvedores, engenheiros de software, engenheiros de dados e estudantes interessados em modernização de aplicações e integração com tecnologias GenAI.
+
+
+
+---
+## 🗂️ Introdução à modernização de sistemas
 
 Introdução ao Bootcamp TQI - Modernização com GenAI
 
@@ -10,12 +28,12 @@ Live de Lançamento TQI - Modernização com GenAI
 Introdução a modernização de sistemas e experiência TQI 
 
 
-💾 Ferramentas/Sites
+🧰 Ferramentas & Recursos
 
-📍 https://refactoring.guru/pt-br/design-patterns/
+- https://refactoring.guru/pt-br/design-patterns/
 
 
-💾 Livros
+📚 Recomendações de leitura
 
 Tidy First? Minirrefatorações para um melhor design de software 
 
@@ -29,7 +47,7 @@ Refatoração - Martin Fowler
 
 
 ---
-## 🚀 Introdução a Engenharia de Prompt 
+## 🗂️ Introdução a Engenharia de Prompt 
 
 Técnicas de Engenharia de Prompt 
 
@@ -38,9 +56,9 @@ Escrevendo prompts eficazes
 Bases de prompt Engineering para GitHub Copilot 
 
 
-💾 Ferramentas/Sites
+🧰 Ferramentas & Recursos
 
-📍 GitHub Copilot
+- GitHub Copilot
 
 
 🎓 Instrutores/Mentores
@@ -55,7 +73,7 @@ Bases de prompt Engineering para GitHub Copilot
 
 
 ---
-## 🚀 Boas práticas de desenvolvimento de software 
+## 🗂️ Boas práticas de desenvolvimento de software 
 
 Boas Práticas para APIs RESTfull
 
@@ -74,7 +92,7 @@ Explorando cálculos e fluxos
 
 
 ---
-## 🚀 Gerenciando serviços Cloud com AWS
+## 🗂️ Gerenciando serviços Cloud com AWS
 
 Introdução à AWS e ao universo da computação em nuvem
 
@@ -87,7 +105,7 @@ Primeiros passos com acesso seguro e controle de custos na AWS
 
 
 ---
-## 🚀 Trabalhando com instâncias EC2 e S3 na AWS
+## 🗂️ Trabalhando com instâncias EC2 e S3 na AWS
 
 Entendendo as instâncias EC2 e a otimização de recursos da AWS
 
@@ -103,7 +121,7 @@ Criando seu primeiro Bucket no Amazon S3
 
 
 ---
-## 🚀 Trabalhando em ambientes serverlles AWS
+## 🗂️ Trabalhando em ambientes serverlles AWS
 
 Criando sua primeira função com Amazon Lambda 
 
@@ -111,8 +129,15 @@ Fundamentos do Amazon SageMaker Canvas
 
 
 
+--- 
+## 🤝 Como contribuir
+- Abra uma issue para sugerir melhorias ou reportar erros.
+- Faça um fork e envie um Pull Request para contribuições de conteúdo (ex.: adicionar materiais, slides, exercícios).
+- Use padrões de commit claros e descreva a motivação da mudança no PR.
 
 
 
-
-
+--- 
+## 📬 Contato
+- Coordenador / Maintainer: @mathewsph2 (GitHub)  
+- Para dúvidas e sugestões: abra uma issue no repositório
