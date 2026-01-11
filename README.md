@@ -38,6 +38,21 @@ Escrevendo prompts eficazes
 Bases de prompt Engineering para GitHub Copilot 
 
 
+💾 Ferramentas/Sites
+
+📍 GitHub Copilot
+
+
+🎓 Instrutores/Mentores
+
+🟦 https://www.linkedin.com/in/allineantunnes/
+
+🟦 https://github.com/alinealien/boas-praticas-para-IAs
+
+
+🟦 https://www.linkedin.com/in/pablonuneslopes/
+
+
 
 ---
 ## 🚀 Boas práticas de desenvolvimento de software 
