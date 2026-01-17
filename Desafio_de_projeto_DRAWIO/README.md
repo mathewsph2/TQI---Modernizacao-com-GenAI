@@ -6,6 +6,10 @@ Este projeto foi desenvolvido como parte do desafio proposto pela plataforma DIO
 
 A arquitetura foi modelada utilizando os principais serviços da AWS, com foco em escalabilidade, modularidade e uso de componentes serverless. Abaixo está a explicação detalhada da estrutura representada no diagrama.
 
+
+![Diagrama do desafio](Desafio_de_projeto_DRAWIO.jpg)
+
+
 --- 
 ## Visão Geral da Arquitetura
 
