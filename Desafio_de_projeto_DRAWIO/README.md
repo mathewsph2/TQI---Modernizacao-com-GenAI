@@ -1,4 +1,4 @@
-# Desafio de Projeto DRAWIO - Arquitetura AWS
+# 🚀 Desafio de Projeto DRAWIO - Arquitetura AWS
 
 Este projeto foi desenvolvido como parte do desafio proposto pela plataforma DIO, conforme o enunciado:
 
