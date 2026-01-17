@@ -18,7 +18,7 @@ Desenvolvedores, engenheiros de software, engenheiros de dados e estudantes inte
 
 
 
----
+--- 
 ## 🗂️ Introdução à modernização de sistemas
 
 Introdução ao Bootcamp TQI - Modernização com GenAI
@@ -46,7 +46,7 @@ Refatoração - Martin Fowler
 
 
 
----
+
 ## 🗂️ Introdução a Engenharia de Prompt 
 
 Técnicas de Engenharia de Prompt 
@@ -72,7 +72,7 @@ Bases de prompt Engineering para GitHub Copilot
 
 
 
----
+
 ## 🗂️ Boas práticas de desenvolvimento de software 
 
 Boas Práticas para APIs RESTfull
@@ -91,7 +91,7 @@ Explorando cálculos e fluxos
 
 
 
----
+
 ## 🗂️ Gerenciando serviços Cloud com AWS
 
 Introdução à AWS e ao universo da computação em nuvem
@@ -104,7 +104,7 @@ Primeiros passos com acesso seguro e controle de custos na AWS
 
 
 
----
+
 ## 🗂️ Trabalhando com instâncias EC2 e S3 na AWS
 
 Entendendo as instâncias EC2 e a otimização de recursos da AWS
@@ -120,12 +120,28 @@ Criando sua primeira instância Amazon EC2
 Criando seu primeiro Bucket no Amazon S3
 
 
----
+
 ## 🗂️ Trabalhando em ambientes serverlles AWS
 
 Criando sua primeira função com Amazon Lambda 
 
 Fundamentos do Amazon SageMaker Canvas 
+
+
+
+
+--
+## 🧰 Ferramentas & Recursos
+
+- DRAWIO
+
+
+
+## 🎓 Instrutores/Mentores
+
+🟦 https://www.linkedin.com/in/alexsandrolechner/
+
+🟦 https://github.com/alexsandrolechner
 
 
 
@@ -137,7 +153,6 @@ Fundamentos do Amazon SageMaker Canvas
 
 
 
---- 
 ## 📬 Contato
 - Coordenador / Maintainer: @mathewsph2 (GitHub)  
 - Para dúvidas e sugestões: abra uma issue no repositório
