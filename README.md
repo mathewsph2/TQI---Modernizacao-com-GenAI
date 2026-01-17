@@ -130,14 +130,14 @@ Fundamentos do Amazon SageMaker Canvas
 
 
 
---
+---
 ## 🧰 Ferramentas & Recursos
 
 - DRAWIO
 
 
 
-## 🎓 Instrutores/Mentores
+## 🎓 Instrutor/Mentor AWS
 
 🟦 https://www.linkedin.com/in/alexsandrolechner/
 
