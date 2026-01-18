@@ -143,7 +143,9 @@ Fundamentos do Amazon SageMaker Canvas
 
 🟦 https://github.com/alexsandrolechner
 
+---
 
+![Certificado do Bootcamp TQI Modernização com GenAI](./TQI_Modernizacao_com_GenAI_Certificado.jpg)
 
 --- 
 ## 🤝 Como contribuir
